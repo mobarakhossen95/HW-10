@@ -1,0 +1,16 @@
+@media (min-width:768px)  {
+  nav{
+    box-shadow: none;
+  }
+} 
+
+@media (max-width:768px)  {
+  #custom_nav li{
+    text-align: right;
+  }
+}
+@media (max-width:768px)  {
+  .navbar-toggler img{
+    text-align: end;
+  }
+}
